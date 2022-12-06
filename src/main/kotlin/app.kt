@@ -1,7 +1,7 @@
 import days.*
 
 fun main() {
-    val days = DayList(Day1())
+    val days = DayList(Day1(), Day2())
 
-    days.printEachDay()
+    days.printLastDay()
 }

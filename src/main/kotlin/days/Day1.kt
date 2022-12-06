@@ -1,6 +1,6 @@
 package days
 
-class Elf() {
+class Elf {
     var totalCalories: Int = 0
 
     fun addLine(line: String) {
